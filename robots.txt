@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /?
+Allow: *.js
+Allow: *.css
+Allow: *.png
+Allow: *.gif
+Allow: *.jpg
+Host: https://xn--80adtajfuah5a6d.xn--p1ai/ 
+Sitemap: http://http://xn--80adtajfuah5a6d.xn--p1ai/sitemap.xml
